@@ -76,5 +76,5 @@ To build and train a **Convolutional Neural Network (CNN)** capable of detecting
 
 ---
 
-## 📂 Project Structure (Suggested)
+
 
