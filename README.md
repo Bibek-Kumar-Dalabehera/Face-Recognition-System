@@ -1,4 +1,4 @@
-# Personalised Face Recognition and Detection *Using Convolutional Neural Networks (CNN)
+# Personalised Face Recognition and Detection Using Convolutional Neural Networks (CNN)
 
 This repository contains the implementation of a real-time **Face Detection System** built using **Python**, **TensorFlow/Keras**, and **OpenCV**.  
 The project was developed as part of an industrial training internship focused on **Artificial Intelligence** and **Machine Learning**.
